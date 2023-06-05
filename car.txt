@@ -4,5 +4,9 @@ remotede kodlar ekliyorum
 bazı kodlar yazdım
 
 Burada çakışma olacak
-diğer developer burda kod yaazd
+
+dinar branchi kod yazdı
+
+
+
 
