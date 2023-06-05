@@ -1,3 +1,8 @@
 bazı değişiklikler yaptım
 remotede kodlar ekliyorum
+
 bazı kodlar yazdım
+
+Burada çakışma olacak
+
+
